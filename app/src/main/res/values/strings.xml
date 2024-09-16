@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">GeometryAndroid</string>
+
+    <string-array name="type_figures">
+        <item>Отрезок</item>
+        <item>Ломаная</item>
+        <item>Окружность</item>
+        <item>Многоугольник</item>
+        <item>Треугольник</item>
+        <item>Четырехугольник</item>
+        <item>Прямоугольник</item>
+        <item>Трапеция"</item>
+    </string-array>
+
+    <string-array name="type_movement">
+        <item>Сдвиг</item>
+        <item>Поворот</item>
+        <item>Симметрия</item>
+    </string-array>
+
+    <string-array name="name_axes">
+        <item>x</item>
+        <item>y</item>
+    </string-array>
+
+    <string-array name="count_points_polyline">
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+    </string-array>
+
+    <string-array name="count_points_ngon">
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+    </string-array>
+</resources>
